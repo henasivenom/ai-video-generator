@@ -1,1 +1,0 @@
-// This file is intentionally left blank. The real sign-up page has been moved up one directory.
